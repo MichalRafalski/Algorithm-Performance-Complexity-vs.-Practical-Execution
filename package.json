@@ -1,0 +1,14 @@
+{
+    "name": "find-duplicates",
+    "description": "A project to find duplicate characters in an array using different methods.",
+    "main": "app.js",
+    "scripts": {
+      "test": "jest", 
+      "start": "node app.js"
+    },
+    "author": "Michal Rafalski",
+    "devDependencies": {
+      "jest": "29.7.0"
+    }
+  }
+  
